@@ -1,2 +1,3 @@
-# python_3_git
+#   THIS IS A DEMO OF USING GIT FOR OUR BOOTCAMP
+## PRESENTED IN LESSON 3 WEEK 3
 This is a demo of using git
